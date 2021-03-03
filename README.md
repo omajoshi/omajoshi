@@ -10,4 +10,4 @@ My name is Om Joshi, and I am currently a first-year Electrical and Computer Eng
 - 📚 The next step on my textbook self-study journey is to relearn all of physics with a more rigorous foundation -- currently, I am reading *An Introduction to Mechanics* by Kleppner and Kolenkow
 - 💬 Ask me about anything `Python`-related!
 - 📫 How to reach me: om@omajoshi.com or https://www.linkedin.com/in/omajoshi/
-- ⚡ Fun fact: on weekend mornings, I can be found biking along one of the many trails in our trail system
+- ⚡ Fun fact: on weekend mornings, I enjoy a long bike ride
